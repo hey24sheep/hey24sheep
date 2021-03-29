@@ -1,13 +1,13 @@
 <!--[![Header](https://github-readme-stats.vercel.app/api?username=Hey24sheep&show_icons=true&include_all_commits=true)](https://some-url.dev/)-->
 
 <h1 align='center'> ʜᴇʟʟᴏ ʜᴇʟʟᴏ :wave:</h1>
-<p align='center'>
+<h3 align='center'>
   ɪ'ᴍ ʜᴇʏʀᴀᴍʙ ɴᴀʀᴀʏᴀɴ ɢᴏʏᴀʟ ᴀ.ᴋ.ᴀ ʜᴇʏ24sʜᴇᴇᴘ, ᴀ sᴇɴɪᴏʀ sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴛᴇᴄʜ ᴇɴᴛʜᴜsɪᴀsᴛ, ɪɴᴛᴇʀɴᴇᴛ-ᴏғ-ᴛʜɪɴɢs, ᴍɪᴄʀᴏᴄᴏɴᴛʀᴏʟʟᴇʀs, ᴘᴀʀᴛ-ᴛɪᴍᴇ ᴄʀᴇᴀᴛɪᴠᴇ ᴅᴏɪɴɢ ɢғx/ᴠғx. 
   </br></br>
   ɪ ᴡᴇᴀʀ ᴍᴀɴʏ ʜᴀᴛs ғʀᴏᴍ ʟᴇᴀᴅɪɴɢ ᴛᴇᴀᴍs ᴛᴏ sᴏғᴛᴡᴀʀᴇ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ/ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴛᴏ ᴅᴇᴠᴏᴘs ᴛᴏ sᴜᴘᴘᴏʀᴛ. 
   ᴡʜᴇɴ ɪ ᴀᴍ ɴᴏᴛ ᴡᴏʀᴋɪɴɢ/ᴄᴏᴅɪɴɢ ʏᴏᴜ ᴄᴏᴜʟᴅ ғɪɴᴅ ᴍᴇ ʟᴇᴀʀɴɪɴɢ/ᴄʀᴇᴀᴛɪɴɢ ɴᴇᴡ sᴛᴜғғ ᴏʀ ᴘʟᴀʏɪɴɢ/sᴛʀᴇᴀᴍɪɴɢ ɢᴀᴍᴇs ᴏɴ ᴛᴡɪᴛᴄʜ.
 </br>
-</p>
+</h3>
 </br>
 <p align='center'>
   <img align='center' src='https://github-readme-stats.vercel.app/api?username=Hey24sheep&show_icons=true&include_all_commits=true&border_radius=15&theme=dark'/>
