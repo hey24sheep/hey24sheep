@@ -43,9 +43,9 @@
 <p align='center'>
   📣 <strong><i>ʀᴇᴀᴄʜ ᴍᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴡᴇʙ</i></strong></br></br>
   <a href="https://linkedin.com/in/hey24sheep"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/hey24sheep"><img src="https://img.shields.io/twitter/follow/hey24sheep?color=%231DA1F2&label=TWITTER&logo=twitter&logoColor=%231DA1F2&style=for-the-badge&labelColor=555555&cacheSeconds=86400"/></a>
+  <a href="https://twitter.com/hey24sheep"><img src="https://img.shields.io/twitter/follow/hey24sheep?color=%231DA1F2&label=TWITTER&logo=twitter&logoColor=%231DA1F2&style=for-the-badge&labelColor=555555"/></a>
   <a href="https://marketplace.visualstudio.com/publishers/Hey24sheep"><img src="https://img.shields.io/badge/VS%20Marketplace-007FFF.svg?style=for-the-badge&logo=visualstudio&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/5439109/hey24sheep"><img src="https://img.shields.io/stackexchange/stackoverflow/r/5439109?color=orange&label=stackoverflow&logo=stackoverflow&style=for-the-badge&cacheSeconds=86400"/></a>
+  <a href="https://stackoverflow.com/users/5439109/hey24sheep"><img src="https://img.shields.io/badge/stackoverflow-grey.svg?style=for-the-badge&logo=stackoverflow&logoColor=orange"/></a>
   <a href="https://www.youtube.com/user/hey24sheep/videos"><img src="https://img.shields.io/badge/youtube-E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://instagram.com/hey24sheep"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitch.tv/hey24sheep"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
