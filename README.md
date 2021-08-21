@@ -41,6 +41,23 @@
 ---
 
 <p align='center'>
+  🧠 <strong>sᴋɪʟʟs & ᴄᴏᴍᴘᴇᴛᴇɴᴄɪᴇs</strong> 
+  </br></br>
+  <img src="https://img.shields.io/static/v1?label=&message=Leadership&color=E9D985&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Team/Time Management&color=E9D985&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Creativity&color=E9D985&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Teamwork/Collaboration&color=E9D985&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Communication&color=E9D985&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Problem Solving&color=E9D985&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Conflict Resolution&color=E9D985&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=agile Management&color=E9D985&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Empathy&color=E9D985&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Adaptability&color=E9D985&style=for-the-badge"/>
+</p>
+
+---
+
+<p align='center'>
   📣 <strong><i>ʀᴇᴀᴄʜ ᴍᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴡᴇʙ</i></strong></br></br>
   <a href="https://linkedin.com/in/hey24sheep" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/hey24sheep" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/hey24sheep?color=%231DA1F2&label=TWITTER&logo=twitter&logoColor=%231DA1F2&style=for-the-badge&labelColor=555555"/></a>
