@@ -1,6 +1,6 @@
 <!--[![Header](https://github-readme-stats.vercel.app/api?username=Hey24sheep&show_icons=true&include_all_commits=true)](https://some-url.dev/)-->
 
-<h1 align='center'> ʜᴇʟʟᴏ ʜᴇʟʟᴏ :wave:</h1>
+<h1 align='center'>🙋‍♂️ ʜᴇʟʟᴏ ʜᴇʟʟᴏ 👋</h1>
 <h3 align='center'>
   ɪ'ᴍ ʜᴇʏʀᴀᴍʙ ɴᴀʀᴀʏᴀɴ ɢᴏʏᴀʟ ᴀ.ᴋ.ᴀ ʜᴇʏ24sʜᴇᴇᴘ, ᴀ sᴇɴɪᴏʀ sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ, ᴛᴇᴄʜ ᴇɴᴛʜᴜsɪᴀsᴛ, ɪɴᴛᴇʀɴᴇᴛ-ᴏғ-ᴛʜɪɴɢs, ᴍɪᴄʀᴏᴄᴏɴᴛʀᴏʟʟᴇʀs, ᴘᴀʀᴛ-ᴛɪᴍᴇ ᴄʀᴇᴀᴛɪᴠᴇ ᴅᴏɪɴɢ ɢғx/ᴠғx. 
   </br></br>
