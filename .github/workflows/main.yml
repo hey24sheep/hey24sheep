@@ -30,7 +30,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.UPLOAD_README_SECRET }}
         with:
-          source_file: 'readme.md'
+          source_file: 'README.md'
           destination_repo: 'hey24sheep/hey24sheep.github.io'
           destination_folder: 'assets'
           user_email: 'hey24sheep@gmail.com'
