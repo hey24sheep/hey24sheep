@@ -28,7 +28,7 @@ jobs:
       - name: Pushes readme file
         uses: dmnemec/copy_file_to_another_repo_action@main
         env:
-          API_TOKEN_GITHUB: ${{ secrets.UPLOAD_README_SECRET }}
+          API_TOKEN_GITHUB: ${{ secrets.ACTION_ADMIN }}
         with:
           source_file: 'README.md'
           destination_repo: 'hey24sheep/hey24sheep.github.io'
