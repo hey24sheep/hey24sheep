@@ -1,82 +1,116 @@
-<!--[![Header](https://github-readme-stats.vercel.app/api?username=Hey24sheep&show_icons=true&include_all_commits=true)](https://some-url.dev/)-->
-<!--Create small caps from this site https://www.piliapp.com/cool-text/small-caps/-->
+<!--
+  This README is both my GitHub profile and the content of https://hey24sheep.com.
+  Every change on main is synced to hey24sheep/hey24sheep.github.io, which rebuilds the site.
 
-<h1 align='center'>🙋‍♂️ ʜᴇʟʟᴏ ʜᴇʟʟᴏ 👋</h1>
-<h3 align='center'>
-  ɪ'ᴍ ʜᴇʏʀᴀᴍʙ ɴᴀʀᴀʏᴀɴ ɢᴏʏᴀʟ ᴀ.ᴋ.ᴀ ʜᴇʏ24sʜᴇᴇᴘ, ᴀ ᴛᴇᴄʜɴɪᴄᴀʟ ᴀʀᴄʜɪᴛᴇᴄᴛ ᴀɴᴅ ᴀ ᴛᴇᴄʜ ᴇɴᴛʜᴜsɪᴀsᴛ. ᴍᴀɴʏ ᴀ ᴛɪᴍᴇ ɪ ᴅᴀʙʙʟᴇ ɪɴ ᴄʏʙᴇʀ sᴇᴄᴜʀɪᴛʏ, ɪᴏᴛ, ᴍɪᴄʀᴏᴄᴏɴᴛʀᴏʟʟᴇʀs, ɢғx/ᴠғx. 
-  </br></br>
-  ɪ ᴡᴇᴀʀ ᴍᴀɴʏ ʜᴀᴛs ғʀᴏᴍ ᴍᴀɴᴀɢɪɴɢ ᴘʀᴏᴊᴇᴄᴛs/ᴛᴇᴀᴍs ᴛᴏ ᴄʀᴇᴀᴛᴇ/ᴏᴠᴇʀʟᴏᴏᴋ sᴅʟᴄ. 
-  ᴡʜᴇɴ ɪ ᴀᴍ ɴᴏᴛ ᴡᴏʀᴋɪɴɢ/ᴄᴏᴅɪɴɢ ʏᴏᴜ ᴄᴏᴜʟᴅ ғɪɴᴅ ᴍᴇ ʟᴇᴀʀɴɪɴɢ/ᴄʀᴇᴀᴛɪɴɢ ɴᴇᴡ sᴛᴜғғ ᴏʀ ᴘʟᴀʏɪɴɢ/sᴛʀᴇᴀᴍɪɴɢ ɢᴀᴍᴇs ᴏɴ ᴛᴡɪᴛᴄʜ/ʏᴛ.
-  </br>
-</h3>
-</br>
+  Editing rules (so the site can read it):
+  - Keep the "#" title, the bold tagline (parts split by "|") and the bio paragraph under it.
+  - Keep the "##" section headings. Edit the rows of the tables freely; keep their columns.
+  - Under "Many hats", each "### Name · Class" is one hat. Known names get their own pixel hat
+    and Sheep Run perk: Architect, Founder, Flutter dev, White hat, Maker, Creative.
+    The line of `code` words are its abilities; the bullet links are its loot
+    (add "— Note" after a link to label it).
+  - GitHub star counts are fetched automatically; don't type them here.
+-->
 
-<p align='center'>
-  <img align='center' src='https://github-readme-stats.vercel.app/api?username=Hey24sheep&show_icons=true&include_all_commits=true&border_radius=15&theme=dark'/>
-</p>
+# Hey24sheep
 
----
+**Architect | Founder | And Many Other Hats**
 
-<p align='center'>
-  🔧 <strong>ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs & ᴛᴏᴏʟs</strong> 
-  </br></br>
-  <img src="https://img.shields.io/static/v1?label=&message=Python&color=9cf&style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=FLUTTER&color=9cf&style=for-the-badge&logo=flutter&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=.NET&color=9cf&style=for-the-badge&logo=.net&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=C-SHARP&color=9cf&style=for-the-badge&logo=c-sharp&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=dart&color=9cf&style=for-the-badge&logo=dart&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=android&color=9cf&style=for-the-badge&logo=android&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=9cf&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=angular&color=9cf&style=for-the-badge&logo=angular&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=node+js&color=9cf&style=for-the-badge&logo=node.js&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=9cf&style=for-the-badge&logo=typescript&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=arduino&color=9cf&style=for-the-badge&logo=arduino&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Raspberry+PI&color=9cf&style=for-the-badge&logo=raspberry-pi&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=azure+devops&color=9cf&style=for-the-badge&logo=Azure-DevOps&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=ms+azure&color=9cf&style=for-the-badge&logo=Microsoft-Azure&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=MS+SQL&color=9cf&style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=VS+CODE&color=9cf&style=for-the-badge&logo=visual-studio-code&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Visual+Studio&color=9cf&style=for-the-badge&logo=visual-studio&logoColor=black"/>
-  <img src="https://img.shields.io/static/v1?label=&message=android+studio&color=9cf&style=for-the-badge&logo=android-studio&logoColor=black"/>
-</p>
+I'm Heyramb Narayan Goyal. I design cloud systems, lead engineering teams and still ship the code.
 
----
+## 🎩 Many hats
 
-<p align='center'>
-  🧠 <strong>sᴋɪʟʟs & ᴄᴏᴍᴘᴇᴛᴇɴᴄɪᴇs</strong> 
-  </br></br>
-  <img src="https://img.shields.io/static/v1?label=&message=Leadership&color=E9D985&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Team/Time Management&color=E9D985&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Creativity&color=E9D985&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Teamwork/Collaboration&color=E9D985&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Communication&color=E9D985&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Problem Solving&color=E9D985&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Conflict Resolution&color=E9D985&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=agile Management&color=E9D985&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Empathy&color=E9D985&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Adaptability&color=E9D985&style=for-the-badge"/>
-</p>
+### Architect · Technical Architect
 
----
+Software architecture, database design and cloud solutions on Azure and .NET — plus running the teams and SDLC that ship them. Today at FeliZeek Technologies; before that at Buildsys.
 
-<p align='center'>
-  📣 <strong><i>ʀᴇᴀᴄʜ ᴍᴇ ᴀʀᴏᴜɴᴅ ᴛʜᴇ ᴡᴇʙ</i></strong></br></br>
-  <a href="https://hey24sheep.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/hey24sheep.com-202124.svg?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADIAAAAcCAMAAAAURxzFAAAADFBMVEUAAAAbvfUcvfUcvfXEslmQAAAAA3RSTlMA4PgXbk0cAAAATElEQVR42u3RgQbAMAyE4dvu%2Fd95Y%2FiHkRyEkUPTK5%2BqajMZ32FH00kriWltYkqDsHJekmd8AQiBvPWfSPH8iPhQcEv0lYycCDGWzQW5CAN5SL8q5AAAAABJRU5ErkJggg%3D%3D"/></a>
-  <a href="https://github.com/hey24sheep" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/github-1a1a1a.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/hey24sheep" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/hey24sheep" target"_blank" rel=noopener noreferrer"><img src="https://img.shields.io/static/v1?label=&message=kaggle&color=9cf&style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://twitter.com/hey24sheep" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/hey24sheep?color=%231DA1F2&label=TWITTER&logo=twitter&logoColor=%231DA1F2&style=for-the-badge&labelColor=555555"/></a>
-<a href="https://pub.dev/publishers/hey24sheep.com/packages" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/pub.dev-01579b.svg?style=for-the-badge&logo=dart&logoColor=white"/></a>
-  <a href="https://marketplace.visualstudio.com/publishers/Hey24sheep" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VS%20Marketplace-007FFF.svg?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <a href="https://stackoverflow.com/users/5439109/hey24sheep" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/stackoverflow-grey.svg?style=for-the-badge&logo=stackoverflow&logoColor=orange"/></a>
-  <a href="https://hightechunveil.blogspot.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=&message=blog&color=fc4f08&style=for-the-badge&logo=blogger&logoColor=black"/></a>
-  <a href="https://www.youtube.com/user/hey24sheep/videos" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/youtube-E4405F.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://instagram.com/hey24sheep" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitch.tv/hey24sheep" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://discord.com/invite/N4KjawqGs7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://ko-fi.com/J3J6Q1QXE" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/buymeacoffee-F5E800.svg?style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZcwABOvYAATr2ATqxVzoAAAAHdElNRQfnAhALDBqwztzyAAADc0lEQVRo3u2YW0hUQRjHf3tRu5FmNytKSO2qkGKmFWRBURFdBIsgepEi6NGHeowg6K2XqCfBfPHFBH3oihaKRiVKiaHlRnbVzPJSu+u6u6cH181zzuzZOVurPZz/sMvOzP+b73++OTPzzYIFCxYsWJhl2EimmJVx9hLgPT18wC/qvIQHJe5lHBeVHCNVL+DVDLj/I+Mxx5mvFvB2BgUoKHioImu6gL4ZFqCg8IyCPwI+zoIAhU62Tgn4MisCFFpYDWDHHuclGAnbuYATbAyyJE4uJqjChR1wsIG9Oj/fKaURhgwD5cONX9AexIsbL0EDWze7ws6c7KFZx67E4Yw4BR6e0EobI6yggG3kMifUM85zGmjFSxKFHCCfhKjR8NPIG25wSNVazCYYEarv5TQLplFTOEU7CgqvKCN5Wk8q5QxEjcAkNtOjYkxQDmMC08/sFTxFBnXcI1vXbuOkcCL1AqBcw6kHt8D0SoRALmGZsN3OVUkBBfxQcbrs2HSkIWojCPjGV2F7kBq+RX0PAFy8U9VTRAJ6eSM12HR081qK52ZEVV8sEuBlwrQAP+NSvCTmqeoOkYAEHKYF2ATjiJDGKlV9RLQLpGtIMkhhqRQvU7MffhdFYDn5pgXkkiHBsrOPRFXLO5EAJ0dJMuU+kdLwPmmEHZxQ1YM0QUCwgoc5YkpACaMS+0A2LRpGH1uIcJy0sc5E+LuibsXJnOCFjlGBw0Ywwvt7lzN8knC/kQqKhD0TXOclNhJZyEEKdZPUTwlPMDhOb7MiqvssHsWYEQW4PPnoRid6bZQFuZaHMadkNVN3hIAhrY41Bu4fxOz+HulTw/ijUO+rs/gwMmN+eh/VkwmpnACFJnJ07tfTGKP7Pi6qEhp8EkbPNXtjNs0xuPbj4ho52lXnlTLuZGfYYgtPpWyC+Angw8MQbVRzjrWiDPSXpP5e9gNQRIekxXvOcpLD7CaPRZFP2FHJ4RQ+cIoSTVppVNpFl3E9hk3MopufJthNmuRDCDtuGZUhzNXe7Q0xiE9GQL+JIc2hQ/yXjFbAHZS4uB/gjhwxD1eMW4pxuSmfWZYJb0d/V55JpWghJHCe/n/o3E8DebLObaE3oYhz7CbNIGxK+DvyL/DQST23GDQnAMBJJjmsDOUHQQh9T+ULQd1H1DJKN2PywbdgwYIFC/8BfgOoCejMt+kv6wAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wMi0xNlQxMToxMjoyNSswMDowMACYcDAAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDItMTZUMTE6MTI6MjUrMDA6MDBxxciMAAAAIHRFWHRzb2Z0d2FyZQBodHRwczovL2ltYWdlbWFnaWNrLm9yZ7zPHZ0AAAAYdEVYdFRodW1iOjpEb2N1bWVudDo6UGFnZXMAMaf/uy8AAAAYdEVYdFRodW1iOjpJbWFnZTo6SGVpZ2h0ADUxMo+NU4EAAAAXdEVYdFRodW1iOjpJbWFnZTo6V2lkdGgANTEyHHwD3AAAABl0RVh0VGh1bWI6Ok1pbWV0eXBlAGltYWdlL3BuZz+yVk4AAAAXdEVYdFRodW1iOjpNVGltZQAxNjc2NTQ1OTQ14l6OBQAAABJ0RVh0VGh1bWI6OlNpemUAOTUwMkJC9h0QPgAAAEV0RVh0VGh1bWI6OlVSSQBmaWxlOi8vLi91cGxvYWRzLzU2L1hjQ3Bmd3ovMzkxMi9rb2ZpX2xvZ29faWNvbl8yNDc4OTQucG5nH4ex2wAAAABJRU5ErkJggg==&logoColor=white"/></a>
-</p>
+`Azure` `.NET / C#` `MS SQL` `Azure DevOps` `Node.js` `Team leadership`
 
-<!--{{int}}-->
+- [azure-flutter-tasks](https://github.com/hey24sheep/azure-flutter-tasks)
+- [azure-environment-variables](https://github.com/hey24sheep/azure-environment-variables)
+- [dotnetkiteconnect](https://github.com/hey24sheep/dotnetkiteconnect)
 
-<h3 align='center'><i>sᴛᴀʏ sᴍᴀʀᴛ, sᴛᴀʏ ᴄʀᴇᴀᴛɪᴠᴇ!</i></h3>
+### Founder · Founder & CTO
+
+Founder & CTO of Cuscato — branded storefronts for orders and bookings, zero commission — and of Neettech, an open, anonymous social world.
+
+`Product` `SaaS` `Architecture` `Shipping`
+
+- [Cuscato](https://cuscato.com)
+- [Neettech](http://neettech.in)
+
+### Flutter dev · Mobile Developer
+
+Flutter packages on pub.dev that other apps build on, and mobile apps for Android and Windows Phone.
+
+`Flutter` `Dart` `Android`
+
+- [uiblock](https://github.com/hey24sheep/uiblock)
+- [backdrop_modal_route](https://github.com/hey24sheep/backdrop_modal_route)
+
+### White hat · Security Researcher
+
+Finding vulnerabilities and disclosing them responsibly — freelance security research on the side.
+
+`Vulnerability testing` `Responsible disclosure`
+
+- [Justdial vulnerability write-up](https://hightechunveil.blogspot.com/2016/04/justdialcom-hacked-by-hey24sheep.html) — Write-up
+
+### Maker · Hardware Tinkerer
+
+Arduino, Raspberry Pi and microcontrollers — like twitch_sheep, which lets Twitch chat drive lights, OBS and IoT devices. Plus scripts and research for Console Tuner.
+
+`Arduino` `Raspberry Pi` `IoT` `TypeScript`
+
+- [twitch_sheep](https://github.com/hey24sheep/twitch_sheep)
+- [Console Tuner](https://www.consoletuner.com/) — Scripts
+
+### Creative · Creative Coder & Streamer
+
+GFX/VFX, procedural L-system trees and a Godot game that never ends — and streaming games on Twitch and YouTube.
+
+`p5.js` `Godot` `GFX / VFX` `Streaming`
+
+- [LSystem_Fractal_Trees_P5](https://github.com/hey24sheep/LSystem_Fractal_Trees_P5)
+- [Never-Ending-Game](https://github.com/hey24sheep/Never-Ending-Game)
+
+## 🧰 Open source
+
+| Project | About | Links |
+| --- | --- | --- |
+| [azure-flutter-tasks](https://github.com/hey24sheep/azure-flutter-tasks) | Build and deploy Flutter apps with the latest Flutter build tasks for Azure DevOps Pipelines. | [Marketplace](https://marketplace.visualstudio.com/publishers/Hey24sheep) |
+| [uiblock](https://github.com/hey24sheep/uiblock) | The easiest way to block and unblock UI in your Flutter apps. | [pub.dev](https://pub.dev/publishers/hey24sheep.com/packages) |
+| [LSystem_Fractal_Trees_P5](https://github.com/hey24sheep/LSystem_Fractal_Trees_P5) | Procedural generation of fractal plants using L-systems in p5.js. | [Play](https://hey24sheep.github.io/LSystem_Fractal_Trees_P5/) |
+| [backdrop_modal_route](https://github.com/hey24sheep/backdrop_modal_route) | Flutter plugin to open a backdrop modal route with minimal code and dynamic content. | |
+| [azure-environment-variables](https://github.com/hey24sheep/azure-environment-variables) | Azure DevOps pipeline task to create environment variables with custom values and paths. | |
+| [dotnetkiteconnect](https://github.com/hey24sheep/dotnetkiteconnect) | .NET library for the Kite Connect trading API. | |
+| [twitch_sheep](https://github.com/hey24sheep/twitch_sheep) | Lets Twitch chat control your home, OBS, IoT devices and lights. | |
+| [Never-Ending-Game](https://github.com/hey24sheep/Never-Ending-Game) | A Godot 2D game with one twist: it never ends. Neither does its to-do list. | |
+
+## 🚀 My projects
+
+| Project | Role | About | Status |
+| --- | --- | --- | --- |
+| [Cuscato](https://cuscato.com) | Founder & CTO | Your own branded storefront for orders and bookings — for retailers, salons and studios, restaurants and cafés, and event venues. One flat monthly price, zero commission. | |
+| [Neettech](http://neettech.in) | Founder & CTO | An open, anonymous social world. | |
+| Text Is Speech | Creator | A feature-rich text-to-speech app for Android and Windows Phone 8 / 8.1. | Retired |
+| Height Predictor | Creator | A height-prediction app for Windows Phone 8 / 8.1. | Retired |
+
+## 💼 Corporate
+
+| Company | Role | About | Status |
+| --- | --- | --- | --- |
+| [FeliZeek Technologies](https://www.felizeek.com/) | Technical Architect | Software architecture, database design and cloud solutions across the company's software and web projects, and the teams that build them. | |
+| [Buildsys](https://in.linkedin.com/company/buildsysinc) | Sr. Software Developer | Team management and architecture, through the full SDLC to client handling. | Previous |
+| [Console Tuner](https://www.consoletuner.com/) | Moderator · script creator · researcher | Scripts, research and moderation for the Console Tuner community. | |
+| [Freelance](https://www.freelancer.com/u/hey24sheep) | Security researcher & consultant | Vulnerability testing with responsible disclosure, plus software, design and consulting projects. | |
+
+## 🔧 Tech
+
+`C#` `.NET` `Azure` `Azure DevOps` `MS SQL` `Flutter` `Dart` `Android` `TypeScript` `JavaScript` `Node.js` `Angular` `Python` `Arduino` `Raspberry Pi`
+
+## 📣 Reach me
+
+[hey24sheep.com](https://hey24sheep.com) · [GitHub](https://github.com/hey24sheep) · [LinkedIn](https://linkedin.com/in/hey24sheep) · [pub.dev](https://pub.dev/publishers/hey24sheep.com/packages) · [VS Marketplace](https://marketplace.visualstudio.com/publishers/Hey24sheep) · [Stack Overflow](https://stackoverflow.com/users/5439109/hey24sheep) · [Kaggle](https://www.kaggle.com/hey24sheep) · [Blog](https://hightechunveil.blogspot.com/) · [YouTube](https://www.youtube.com/user/hey24sheep/videos) · [Twitch](https://twitch.tv/hey24sheep) · [Discord](https://discord.com/invite/N4KjawqGs7) · [X](https://twitter.com/hey24sheep) · [Instagram](https://instagram.com/hey24sheep) · [Ko-fi](https://ko-fi.com/J3J6Q1QXE)
+
+*Stay smart, stay creative!*
